@@ -3,7 +3,7 @@ Program to take and plot daily measurements
 
 This program, measure_plotting.py, reads a set of simple text data files data/*.data and creates a plot.
 ## Example Plot
-Docs/Sugar_1.png is an example results plot.
+![Program printout](Docs/Sugar_1.png) is an example results plot.
 ## Data Files
 ### Data File Format
 ```
